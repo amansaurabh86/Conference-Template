@@ -1,5 +1,5 @@
 import React from "react";
-import herobg from "../images/callPaperBg.jpeg";
+import herobg from "../images/callPaperbg.jpeg";
 
 const Header = () => {
     return (
