@@ -2,46 +2,46 @@ import speaker from "../images/speaker.jpg";
 
 const speakers = [
     {
-        name: "Dr Lalatendu Behera",
+        name: "Dr abc",
         title: "Assistant Professor (Grade-I), NITJ",
-        description: "Dr. Lalatendu Behera's research include real-time scheduling theory, safety-critical system design, and mixed-criticality systems.",
+        description: "Dr. abc research include real-time scheduling theory, safety-critical system design, and mixed-criticality systems.",
         image: speaker,
-        more_info: "https://lalatendubehera.github.io/lalatendu/"
+        more_info: "https://"
     },
     {
-        name: "Dr Lalatendu Behera",
+        name: "Dr abc",
         title: "Assistant Professor (Grade-I), NITJ",
-        description: "Dr. Lalatendu Behera's research include real-time scheduling theory, safety-critical system design, and mixed-criticality systems.",
+        description: "Dr. abc research include real-time scheduling theory, safety-critical system design, and mixed-criticality systems.",
         image: speaker,
-        more_info: "https://lalatendubehera.github.io/lalatendu/"
+        more_info: "https://"
     },
     {
-        name: "Dr Lalatendu Behera",
+        name: "Dr abc",
         title: "Assistant Professor (Grade-I), NITJ",
-        description: "Dr. Lalatendu Behera's research include real-time scheduling theory, safety-critical system design, and mixed-criticality systems.",
+        description: "Dr. abc research include real-time scheduling theory, safety-critical system design, and mixed-criticality systems.",
         image: speaker,
-        more_info: "https://lalatendubehera.github.io/lalatendu/"
+        more_info: "https://"
     },
     {
-        name: "Dr Lalatendu Behera",
+        name: "Dr abc",
         title: "Assistant Professor (Grade-I), NITJ",
-        description: "Dr. Lalatendu Behera's research include real-time scheduling theory, safety-critical system design, and mixed-criticality systems.",
+        description: "Dr. abc research include real-time scheduling theory, safety-critical system design, and mixed-criticality systems.",
         image: speaker,
-        more_info: "https://lalatendubehera.github.io/lalatendu/"
+        more_info: "https://"
     },
     {
-        name: "Dr Lalatendu Behera",
+        name: "Dr abc",
         title: "Assistant Professor (Grade-I), NITJ",
-        description: "Dr. Lalatendu Behera's research include real-time scheduling theory, safety-critical system design, and mixed-criticality systems.",
+        description: "Dr. abc research include real-time scheduling theory, safety-critical system design, and mixed-criticality systems.",
         image: speaker,
-        more_info: "https://lalatendubehera.github.io/lalatendu/"
+        more_info: "https://"
     },
     {
-        name: "Dr Lalatendu Behera",
+        name: "Dr abc",
         title: "Assistant Professor (Grade-I), NITJ",
-        description: "Dr. Lalatendu Behera's research include real-time scheduling theory, safety-critical system design, and mixed-criticality systems.",
+        description: "Dr. abc research include real-time scheduling theory, safety-critical system design, and mixed-criticality systems.",
         image: speaker,
-        more_info: "https://lalatendubehera.github.io/lalatendu/"
+        more_info: "https://"
     }
 ];
 
